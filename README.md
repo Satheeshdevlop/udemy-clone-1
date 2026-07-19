@@ -30,4 +30,4 @@ Coming Soon
 
 ## 📂 GitHub Repository
 
-https://github.com/Satheeshdevlop/udemy-clone-1
+https://satheeshdevlop.github.io/udemy-clone-1/
